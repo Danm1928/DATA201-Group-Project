@@ -1,0 +1,228 @@
+"","OBJECTID","LANESTART","LANEEND","SVLType","OperatingDay","StartingHourM","EndingHourM","EndingHourE","LanePositionNew","StartingHourE","Shape__Length"
+"1",1,"129 Anzac Avenue (NE of Waterloo Quadrant)","23 Anzac Avenue (S of Beach Road)","Bus","24/7",NA,NA,NA,"Kerbside",NA,535.363519712575
+"2",2,"2 Anzac Avenue (S of Beach Road)","152 Anzec Avenue (NE cnr Alten Road)","Bus","24/7",NA,NA,NA,"Kerbside",NA,543.62186611427
+"3",3,"732 Dominion Road (S of Kensington Avenue)","1256 Dominion Road (S of Keystone Avenue)","Bus","Monday to Friday",NA,NA,19,"Kerbside",16,1880.92475083214
+"4",4,"Opposite 1 Centorian Drive (W of East Coast Road)","55 Constellation Drive (E of Parkway Avenue)","T2","Monday to Friday",6.3,10,NA,"Kerbside",NA,803.274199505122
+"5",5,"42 Constellation Drive (E of Home Place)","8 Constellation Drive (W of Centorian Drive)","T2","Monday to Friday",NA,NA,19,"Kerbside",16,702.785372136437
+"6",6,"231 East Coast Road (SE of Sunnynook Road)","Opposite 258 East Coast Road (N of Forrest Hill Rbout)","T2","Monday to Friday",6.3,10,NA,"Kerbside",NA,551.231019966412
+"7",7,"Opposite 268 Forrest Hill Road (S of East Coast Road Rbout)","149 Forrest Hill Road (N of Seine Road)","T2","Monday to Friday",6.3,10,NA,"Kerbside",NA,1286.94420445239
+"8",8,"93 Forrest Hill Road (S of Quebec Road)","17 Forrest Hill Road (N of Nile Road)","T2","Monday to Friday",6.3,10,NA,"Kerbside",NA,610.690187744654
+"9",9,"6 Shakespeare Road (S of Kitchener Road)","124 Shakespeare Road (N of North Shore Hospital)","T2","Monday to Friday",6.3,10,NA,"Kerbside",NA,1113.4648011783
+"10",10,"2 Akoranga Drive (Onewa Domain SE of Northcote Road)","90 Akoranga Drive (NW of The Warehouse Way)","T2","Monday to Friday",NA,10,NA,NA,NA,1041.86407047484
+"11",11,"Opposite 90 Akoranga Drive (NW of The Warehouse Way)","3 Akoranga Drive (SE of Northcote Road)","T2","Monday to Friday",NA,NA,19,NA,NA,1080.35339863012
+"12",12,"Opposite 100 Lake Road (S of Exmouth Road)","1 Lake Road (N of Onewa Road)","T3","Monday to Friday",6.3,10,NA,"Kerbside",NA,807.850081669314
+"13",13,"237 Onewa Road (E of Birkenhead Avenue)","7 Onewa Road (W of Sylvan Avenue)","T3","Monday to Friday",6.3,10,NA,"Kerbside",NA,1937.49537377646
+"14",14,"56 Donovan Street (E of Rathlin Street)","88 Donovan Street (W of Whitney Street)","Bus","Monday to Friday",7,10,NA,"Kerbside",NA,744.055038622956
+"15",15,"74 Onewa Road (W of Church Street)","266 Onewa Road (E of Birkenhead Avenue)","T3","Monday to Friday",NA,NA,19,"Kerbside",16,1264.73589700938
+"16",16,"2 Fred Thomas Drive (Fred Thomas Health)","Opposite 37 Fred Thomas Drive (N of Takapuna Landing Rbout)","Bus","Monday to Friday",6.3,10,NA,"Kerbside",NA,225.662527510805
+"17",17,"142 Shakespeare Road (opposite Thornton Road)","Intersection with Wairau Road/Taharoto Road","Bus","24/7",NA,NA,NA,"Centre",NA,113.389747155868
+"18",18,"262 Forrest Hill Road (N of Manutara Avenue)","272 Forrest Hill Road (East Coast Road Rbout)","Bus","24/7",NA,NA,NA,"Kerbside",NA,69.5389218606221
+"19",19,"Kitchener Road Intersection","Kitchener Road Intersection","Bus","24/7",NA,NA,NA,"Centre",NA,9.27014505800787
+"20",20,"Mt Wellington Road Intersection","Opposite 476 Ellerslie-Panmure Highway (W of Mt Wellington Road)","Bus","24/7",NA,NA,NA,"Kerbside",NA,72.9122268196076
+"21",21,"185 Fanshawe Street (E of Beaumont Street)","Opposite 100 Fanshawe Street (W of Customs Street West)","Bus","24/7",NA,NA,NA,"Kerbside",NA,708.451376299072
+"22",22,"Midblock between Albert and Federal Streets","Opposite 185 Fanshawe Street (E of Beaumont Street)","Bus","24/7",NA,NA,NA,"Kerbside",NA,1123.27800907514
+"23",23,"Grafton Road Intersection","Symonds Street Intersection","Bus","Monday to Friday",7,NA,19,"Kerbside",NA,331.688892170963
+"24",24,"Symonds Street Intersection","Grafton Road Intersection","Bus","Monday to Friday",7,NA,19,"Kerbside",NA,334.473962532708
+"25",25,"1177 Great North Road (E of Huia Road)","W of St Lukes Road Intersection","Bus","Monday to Friday",7,10,NA,"Kerbside",NA,1316.83887810123
+"26",26,"727 Great North Road (E of Bullock Track)","Grey Lynn School (opposite 654 Great North Road)","Bus","Monday to Friday",7,10,NA,"Kerbside",NA,513.228366382655
+"27",27,"Intersection with Surrey Crescent","Intersection with Surrey Cresent ","Bus","24/7",NA,NA,NA,"Kerbside",NA,25.6777030529932
+"28",28,"465 Great North Road (E of Crummer Road)","399 Great North Road (W of Elgin Street)","Bus","Monday to Friday",7,10,NA,"Kerbside",NA,432.372963529116
+"29",29,"Ti Rakau Drive Intersection","Ti Rakau Drive Intersection","Bus","24/7",NA,NA,NA,"Centre",NA,47.1546910028516
+"30",30,"Gossamer Drive Intersection","Gossamer Drive Intersection","Bus","24/7",NA,NA,NA,"Kerbside",NA,72.0896616007251
+"31",31,"Aviemore Drive/Bucklands Beach Road Intersection","Aviemore Drive/Bucklands Beach Road Intersection","Bus","24/7",NA,NA,NA,"Centre",NA,35.6893325725073
+"32",32,"Harris Road Intersection","Harris Road Intersection","Bus","24/7",NA,NA,NA,"Centre",NA,92.465069409534
+"33",33,"650 Great South Road (N of Bairds Road, Otahuhu)","660 Great South Road (S of Bairds Road, Otahuhu)","Bus","24/7",NA,NA,NA,"Kerbside",NA,83.5144301919539
+"34",34,"Cnr Ashgrove Road (63 Ashgrove Road)","125 Bader Drive (E of Mascot Avenue)","Bus","Monday to Friday",7,10,19,"Kerbside",15,203.92649119158
+"35",35,"255 Great North Road (Opp King Street)","79 Great North Road (W of Pollen Street)","Bus","Monday to Friday",7,10,NA,"Kerbside",NA,554.777931456315
+"36",36,"110 Great North Road (W of Burns Street)","300 Great North Road (E of Bond Street)","Bus","Monday to Friday",NA,NA,19,"Kerbside",16,618.230469950424
+"37",37,"406 Great North Road (E of Hadlow Terrace)","Opposite 497 Great North Road (W of Crummer Road)","Bus","Monday to Friday",NA,NA,19,"Kerbside",16,393.435251956587
+"38",38,"636 Great North Road (W of Surrey Cres)","744 Great North Road (W of Tuarangi Road)","Bus","Monday to Friday",NA,NA,19,"Kerbside",16,710.31163272058
+"39",39,"E of St Lukes Road Intersection","1180 Great North Road (W of Parr Road N)","Bus","Monday to Friday",NA,NA,19,"Kerbside",16,1394.5327467366
+"40",40,"279 Great South Road (N of Campbell Road, Greenlane)","217 Great South Road (W of Puriri Avenue, Greenlane)","Bus","Monday to Friday",7,10,19,"Kerbside",16,509.109575875318
+"41",41,"196 Great South Road (N of Greenlane W)","25A Great South Road (E of Ngaire Ave, Epsom)","Bus","Monday to Friday",7,10,NA,"Kerbside",NA,1845.80575082675
+"42",42,"378 Great South Road (S of Greenlane E)","500 Great South Road (W of Woodbine Ave, Greenlane)","Bus","Monday to Friday",7,10,19,"Kerbside",16,317.561336026889
+"43",43,"351 Karangahape Road (E of Day Street)","269 Karangahape Road (W of Pitt Street)","Bus","Monday to Friday",7,10,NA,"Kerbside",NA,134.218300214229
+"44",44,"425 Broadway (S of Edgerley Avenue)","277 Broadway (S of Morrow Street)","Bus","Monday to Friday",7,10,19,"Kerbside",16,421.299775816429
+"45",45,"417 Khyber Pass Road (W of Melrose Street)","371 Khyber Pass Road (E of Mountain Road)","Bus","Monday to Friday",7,10,19,"Kerbside",16,225.656112250705
+"46",46,"262 Khyber Pass Road (E of Park Road)","342 Khyber Pass Road (W of Suiter Street)","Bus","Monday to Friday",7,10,19,"Kerbside",16,272.460116902068
+"47",47,"390 Mount Eden Road (S of Batger Road)","410 Mount Eden Road (N of Oaklands Road)","Bus","Monday to Friday",NA,NA,19,"Kerbside",16,172.78132491227
+"48",48,"Symonds Street Motorway Onramp Intersection (SH1 Southbound)","Symonds Street Offramp Intersection (N approach)","Bus","24/7",NA,NA,NA,"Kerbside",NA,289.772963128013
+"49",49,"124 Symonds Street (S of Symonds Street Offramp)","Intersection with Khyber Pass Road","Bus","24/7",NA,NA,NA,"Kerbside",NA,270.571099842415
+"50",50,"401 New North Road (E of New Bond Street)","319 New North Road (E of Bond Street)","Bus","Monday to Friday",7,10,NA,"Kerbside",NA,473.332920819829
+"51",51,"310 New North Road (W of Ace Place)","394 New North Road (Sandringham Road Intersection)","Bus","Monday to Friday",NA,NA,19,"Kerbside",16,462.286403838002
+"52",52,"101 Victoria Street West (E of Hobson Street)","77 Victoria Street (W of Federal Street)","Bus","24/7",NA,NA,NA,"Kerbside",NA,65.0879716545463
+"53",53,"183 Park Road (N of Carlton Gore Road)","1 Park Road (Grafton Road Intersection)","Bus","24/7",NA,NA,NA,"Kerbside",NA,580.73649004215
+"54",54,"100 Park Road (S of Carlton Gore Road)","118 Park Road (Bridge Over Railway)","Bus","24/7",NA,NA,NA,"Kerbside",NA,93.8576637179203
+"55",55,"61 Parnell Rise (W of Carlaw Park Avenue)","31 Parnell Rise (Stanley Street Intersection)","Bus","24/7",NA,NA,NA,"Centre",NA,63.3177381953703
+"56",56,"Opposite 50 Ponsonby Road (Hopetoun Street Intersection)","1 Ponsonby Road (midblock between Hopetoun Street and K Road)","Bus","Monday to Friday",7,10,NA,"Kerbside",NA,75.1261270489141
+"57",57,"370 Broadway (S of Balm Street)","500 Broadway (N of St Marks Road)","Bus","Monday to Friday",7,10,19,"Kerbside",16,299.597067594573
+"58",58,"12 Quay Street (W of The Strand)","138 Quay Street (E of Commerce Street)","Bus","Monday to Friday",6,10,NA,"Kerbside",NA,1203.70583444823
+"59",59,"500 Queen Street (S of City Road)","520 Queen Street (N of Karangahape Road)","Bus","24/7",NA,NA,NA,"Kerbside",NA,99.4392419337901
+"60",60,"757 Remuera Road (W of McFarland Street)","605 Remuera Road (Opposite Lucerne Road)","T3","Monday to Friday",7,10,NA,"Kerbside",NA,1188.82515066345
+"61",61,"233 Remuera Road (W of Market Road)","55 Remuera Road (W of Belmont Terrace)","T3","Monday to Friday",7,10,NA,"Kerbside",NA,1284.08386407753
+"62",62,"62 Remuera Road (W of Belmont Terrace)","216 Remuera Road (S of Westbourne Road)","T3","Monday to Friday",NA,NA,19,"Kerbside",16,1155.77250875946
+"63",63,"702 Remuera Road (Opposite Koraha Street)","774 Remuera Road","T3","Monday to Friday",NA,NA,19,"Kerbside",16,630.601352015787
+"64",64,"309 Sandringham Road (N of Watson Avenue)","193 Sandringham Road (S of Leslie Avenue)","Bus","Monday to Friday",7,10,NA,"Kerbside",NA,623.724964608147
+"65",65,"125 Sandringham Road (N of Ethel Street)","9 Sandringham Road (S of Onslow Road)","Bus","Monday to Friday",7,10,NA,"Kerbside",NA,859.77373690189
+"66",66,"12 Sandringham Road (S of Onslow Road)","128 Sandringham Road (N of Burnley Terrace)","Bus","Monday to Friday",NA,NA,19,"Kerbside",16,750.41065096796
+"67",67,"396 Sandringham Road (N of Patterson Street)","484 Sandringham Road (N of Tranmere Road)","Bus","Monday to Friday",NA,NA,19,"Kerbside",16,474.588825202675
+"68",68,"588 Sandringham Road (N of Lambeth Road)","692 Sandringham Road (N of Mt Albert Road)","Bus","Monday to Friday",NA,NA,19,"Kerbside",16,481.819702003863
+"69",69,"83 New North Road (E of Charlotte Street)","Intersection with Basque Road","Bus","Monday to Friday",7,10,NA,"Kerbside",NA,293.888450265997
+"70",70,"Karangahape Road Intersection (S Approach)","25 Symonds Street (S of St Paul Street)","Bus","24/7",NA,NA,NA,"Centre",NA,630.676961805047
+"71",71,"7 Symonds Street (N of Alfred Street)","3A Symonds Street (S of Waterloo Quadrant)","Bus","24/7",NA,NA,NA,"Kerbside",NA,178.27778627151
+"72",72,"2 Symonds Street (S of Alten Road)","18 Symonds Street (N of Grafton Road)","Bus","24/7",NA,NA,NA,"Kerbside",NA,205.909172622219
+"73",73,"20 Symonds Street (S of Grafton Road)","Opposite 95 Symonds Street (N of Grafton Bridge)","Bus","24/7",NA,NA,NA,"Kerbside",NA,878.573542253102
+"74",74,"19 Tamaki Drive (N of Kitemoana Street)","Approx 130m E of Ngapipi Road (No addresses nearby)","T2","Monday to Friday",7,10,NA,"Kerbside",NA,1313.90500746705
+"75",75,"Opposite 156 Vincent Street (E of Pitt Street)","101 Vincent Street (S of Cook Street)","Bus","24/7",NA,NA,NA,"Kerbside",NA,233.845488965586
+"76",76,"945 Dominion Road (N of Jasper Avenue)","555 Dominion Road (S of Wiremu Street)","Bus","Monday to Friday",7,10,NA,"Kerbside",NA,1836.8121058078
+"77",77,"39 Halsey Street (Fanshawe Street Intersection)","31 Halsey Street (S of Fanshawe Street)","Bus","24/7",NA,NA,NA,"Kerbside",NA,45.870062508232
+"78",78,"Opposite 15 Halsey Street (N of Victoria Street West)","Opposite 39 Halsey Street (Fanshawe Street Intersection)","Bus","24/7",NA,NA,NA,"Kerbside",NA,147.475072168257
+"79",79,"149 Victoria Street West (E of Graham Street)","137 Victoria Street West (W of Nelson Street)","Bus","24/7",NA,NA,NA,"Centre",NA,61.3337783829018
+"80",80,"200 Victoria Street (E of Wellesley Street West)","210 Victoria Street West (W of Drake Street)","Bus","24/7",NA,NA,NA,"Kerbside",NA,225.523237022856
+"81",81,"119 Wellesley Street West (W of Nelson Street)","10 Wellesley Street East (W of Lorne Street)","Bus","24/7",NA,NA,NA,"Centre",NA,657.076684900094
+"82",82,"Opposite 10 Wellesley Street East (W of Lorne Street)","86 Wellesley Street West (E of Nelson Street)","Bus","24/7",NA,NA,NA,"Kerbside",NA,538.764872193129
+"83",83,"52 Mayoral Drive (E of Cook Street)","3 Mayoral Drive (S of Wellesley Street W)","Bus","24/7",NA,NA,NA,"Kerbside",NA,157.720294672461
+"84",84,"2 Mayoral Drive (S of Wellesley Street W)","10 Mayoral Drive (N of Myers Street)","Bus","Monday to Friday",6,10,19,"Kerbside",15,26.0418151883799
+"85",85,"70 Hobson Street (N of Victoria Street West)","119 Hobson Street (N of Wellesley Street West)","Bus","24/7",NA,NA,NA,"Kerbside",NA,241.008504451862
+"86",86,"487 Dominion Road (N of Dunbar Road)","135 Dominion Road (S of George Street)","Bus","Monday to Friday",7,10,NA,"Kerbside",NA,1614.38877871202
+"87",87,"Opposite 118 Park Road (Bridge Over Railway)","Opposite 98 Park Road (S of Carlton Gore Road)","Bus","24/7",NA,NA,NA,"Kerbside",NA,167.142948943125
+"88",88,"204 Khyber Pass Road (E of Claremont Street)","238 Khyber Pass Road (W of Huntley Ave)","Bus","Monday to Friday",7,10,19,"Kerbside",16,57.0215344739043
+"89",89,"414 Khyber Pass Road (E of Kingdon Street)","446 Khyber Pass Road (E of Broadway)","Bus","Monday to Friday",7,10,19,"Kerbside",16,97.1865302400709
+"90",90,"681 Sandringham Road (S of Taumata Road)","611 Sandringham Road (N of Eden View Road)","Bus","Monday to Friday",7,10,NA,"Kerbside",NA,356.159112498066
+"91",91,"453 Sandringham Road (N of Coyle Street)","439 Sandringham Road (S of Shorwell Street)","Bus","Monday to Friday",7,10,NA,"Kerbside",NA,61.5620066539518
+"92",92,"419 Sandringham Road (Opposite Jason Avenue)","377 Sandringham Road (N of Grove Road)","Bus","Monday to Friday",7,10,NA,"Kerbside",NA,174.966040922653
+"93",93,"2 Park Road (N of Domain Drive)","Opposite 179 Park Road (N of Carlton Gore Road)","Bus","Monday to Friday",7,NA,19,"Kerbside",NA,190.317256524108
+"94",94,"43 St Johns Road (W of Gerard Way)","35 St Johns Road (Shopping Centre Bus Stop)","Bus","Monday to Friday",7,10,NA,"Kerbside",NA,31.9541780237266
+"95",95,"114 Dominion Road (S of View Road)","218 Dominion Road (N of Valley Road)","Bus","Monday to Friday",NA,NA,19,"Kerbside",16,319.38414009065
+"96",96,"446 Parnell Road (S of St Stephens Avenue)","538 Parnell Road (W of Cowie Street)","Bus","Monday to Friday",NA,NA,19,"Kerbside",16,531.704080704598
+"97",97,"312 Dominion Road (S of Ewington Avenue)","Opposite 487 Dominion Road (Potters Park)","Bus","Monday to Friday",NA,NA,19,"Kerbside",16,1347.97300454062
+"98",98,"133 Mount Eden Road (N of Kelly Street)","27 Mount Eden Road (S of Nikau Street)","Bus","Monday to Friday",7,10,NA,"Kerbside",NA,517.963388159719
+"99",99,"520 Mount Eden Road (S of Disraeli Street)","616 Mount Eden Road (N of Balmoral Road)","Bus","Monday to Friday",NA,NA,19,"Kerbside",16,481.823344947485
+"100",100,"125 Fanshawe Street (W of Halsey Street)","109 Fanshawe Street (Halsey Street Intersection)","Bus","24/7",NA,NA,NA,"Kerbside",NA,64.7646359878478
+"101",101,"11 Main Highway (Opposite Walpole Street)","Opposite 26 Main Highway (SE of Great South Road Intersection)","Bus","Monday to Friday",7,10,NA,"Kerbside",NA,133.117194602496
+"102",102,"135 Albert Street (N of Wellesley Street)","99 Albert Street (S of Victoria Street)","Bus","24/7",NA,NA,NA,"Kerbside",NA,172.745885161682
+"103",103,"Market Place Intersection","15 Sturdee Street (W of Market Lane)","Bus","24/7",NA,NA,NA,NA,NA,151.041740623639
+"104",104,"Intersection West Coast Rd","4004 Great North Road","Bus","24/7",NA,NA,NA,NA,NA,64.8769804660463
+"105",105,"LH Turn lane, Great North Road","Intersection Edmonton Road","Bus","24/7",NA,NA,NA,NA,NA,24.7704285462836
+"106",106,"LH Turn lane, Lincoln Road","Intersection Triangle Road","Bus","24/7",NA,NA,NA,NA,NA,35.8867840025256
+"107",107,"Intersection, Selwood Road","End of merge with motorway","T2&Truck","24/7",NA,NA,NA,NA,NA,591.724011182851
+"108",108,"114A Paitiki Road","85-91 Paitiki Road","Bus","24/7",NA,NA,NA,NA,NA,27.2153910205004
+"109",109,"403 Lake Road","382 Lake Road","Bus","24/7",NA,NA,NA,NA,NA,45.8383159247991
+"110",110,"FH Turn lane, Ponsonby Rd","Intersection Hopetoun Street","Bus","24/7",NA,NA,NA,NA,NA,32.5897583909062
+"111",111,"278 Mt Eden Road","390 Mt Eden Rd","Bus","Monday to Friday",NA,NA,19,NA,16,413.658403649823
+"112",112,"Intersection Ireland Road","535 Ellerslie-Panmure Highway","Bus Only","24/7",NA,NA,NA,NA,NA,37.4906978200255
+"113",113,"Intersection Selwyn Street","End of merge with motorway","T2&Truck","24/7",NA,NA,NA,NA,NA,452.171396408356
+"114",114,"Intersection Landscape Road","Intersection Grange Road","Bus","Monday to Friday",7,10,NA,NA,NA,1736.70711977677
+"115",115,"LH Turn lane, New North Rd","Intersection Sandringham Road","Bus","24/7",NA,NA,NA,NA,NA,28.3910093632511
+"116",116,"Intersection Rutland Street","Intersection Wellesley Street East","Bus","24/7",NA,NA,NA,NA,NA,50.1499969146408
+"117",117,"LH Turn Wellesley Street East","Intersection Mayoral Drive","Bus","24/7",NA,NA,NA,NA,NA,27.6780857953268
+"118",118,"153 Great South Road","Intersection Browns Road","Bus","Monday to Friday",7,9,NA,NA,NA,1319.2386718878
+"119",119,"LH Turn lane Great South Rd","End of merge from LH Turn Reagan Road","Bus","24/7",NA,NA,NA,NA,NA,53.110818938348
+"120",120,"24-28 Verran Road","Intersection Birkdale Road","Bus Only","24/7",NA,NA,NA,NA,NA,60.3747560717247
+"121",121,"Intersection Birkdale Road","24-28 Verran Road","Bus Only","24/7",NA,NA,NA,NA,NA,55.5072263772384
+"122",122,"Intersection Esmonde Road","Intersection Accessway","Bus Only","24/7",NA,NA,NA,NA,NA,115.935141611011
+"123",123,"Intersection Accessway","Roundabout Accessway/University Ave","Bus",NA,NA,NA,NA,NA,NA,118.11562569052
+"124",124,"Intersection Accessway","Pedestrian Crossing","Bus","24/7",NA,NA,NA,NA,NA,40.0786448804112
+"125",125,"After Westfield Parking access (northbound)","Intersection Don McKinnon Drive","Bus","24/7",NA,NA,NA,NA,NA,132.277849151823
+"126",126,"Intersection Don McKinnon Drive","After Westfield Parking access (southbound)","Bus","24/7",NA,NA,NA,NA,NA,251.971337769505
+"127",127,"Westfield parking exit","Intersection Don McKinnon Drive","Bus","24/7",NA,NA,NA,NA,NA,161.061557230793
+"128",128,"Intersection Don McKinnon Drive","Before Westfield parking exit (southbound)","Bus","24/7",NA,NA,NA,NA,NA,130.266262433859
+"129",129,"After parking entrance (southbound)","Bus terminal","Bus Only","24/7",NA,NA,NA,NA,NA,95.3929159039086
+"130",130,"30 Esmonde Road","Inst Barrys Point Rd and Esmonde Rd","Bus","24/7",NA,NA,NA,NA,NA,566.696958784968
+"131",131,"Intsn Barrys Point Rd and Esmonde Rd","Start of motorway","Bus","24/7",NA,NA,NA,NA,NA,304.252902580454
+"132",132,"1083 Dominion Road (N of Denbigh Avenue)","1053 Dominion Road (S of Memorial Avenue)","Bus","Monday to Friday",7,10,NA,"Kerbside",NA,271.830429417047
+"133",133,"139 May Road (N of Richardson Road)","101 May Road (south of Roma Road)","Bus","Monday to Friday",7,10,NA,"Kerbside",NA,415.223153275102
+"134",134,"1302 Dominion Road (S of Memorial Avenue)","1334 Dominion Road (N of Denbigh Avenue)","Bus","Monday to Friday",NA,NA,19,"Kerbside",16,275.666627927069
+"135",135,"Osterley Way","99 Leyton Way, Manakau","Bus","Monday to Friday",7,NA,NA,NA,NA,476.853177093546
+"136",136,"735 Great South Road, Papatoetoe","59 Great South Road, Papatoetoe","Bus","Monday to Friday",7,10,NA,"Kerbside",NA,1139.55333486334
+"137",137,"From Veronika Street","Avondale round about","Bus","Monday to Friday",7,10,19,NA,16,1188.545996698
+"138",138,"From Larch Street","Veronica Street","Bus","Monday to Friday",NA,NA,19,NA,16,951.886099506119
+"139",139,"Pukenui Road","Owens Road","T3","Monday to Friday",7,10,19,NA,16,2581.87020018393
+"140",140,"Pukenui Road","Owens Road","T3","Monday to Friday",NA,NA,19,NA,16,2568.20053844192
+"141",141,"Greenwoods Corner","Trafalgar Street","T3","Monday to Friday",NA,NA,19,NA,16,1774.02989257184
+"142",142,"Trafalgar Street","Greenwoods Corner","T3","Monday to Friday",7,10,19,NA,16,1774.02989257216
+"143",143,"From Veronika Street","Avondale round about","Bus","Monday to Friday",7,10,19,NA,16,1188.545996698
+"144",144,"From Larch Street","Veronica Street","Bus","Monday to Friday",NA,NA,19,NA,16,951.886099506119
+"145",145,"1843 Great North Road","Ash Steet","Bus","Monday to Friday",7,10,19,NA,16,197.284262030192
+"146",146,"170 Sandringham Road (S of Burnley Terrace)","314 Sandringham Road (N of Lancing Road)","Bus","Monday to Friday",NA,NA,19,"Kerbside",16,706.920774616509
+"147",147,"Opposite 211 Albany Highway (N of Bush Road)","Opposite 22 Albany Highway (S of Rosedale Road)","T2","Monday to Friday",7,10,19,"Kerbside",15,1484.93198039155
+"148",148,"Albany Highway (South of Albany Expressway)","211 Albany Highway (N of Bush Road)","T2","Monday to Friday",7,10,19,"Kerbside",15,3569.86683018678
+"149",149,"387 Albany Hwy (North of Rosedale Road)","Albany Highway (South of Albany Expressway)","T2","Monday to Friday",7,10,19,"Kerbside",15,1760.04673752434
+"150",150,"77 Walmsley Road (N of Mangere Road)
+77 Walmsley Road (N of Mangere Road)
+77 Walmsley Road (N of Mangere Road)","47 Walmsley Road (S of Hans Street)","T3","Monday to Friday",7,10,19,"Kerbside",16,266.39015601667
+"151",151,"37 Walmsley Road (N of Kaka Street)","27 Walmsley Road (N of Kaka Street)","T3","Monday to Friday",7,10,19,"Kerbside",16,107.526535353771
+"152",152,"42 Walmsley Road (S of Kaka St)","80 Walmsley Road (N of Mangere Road)","T3","Monday to Friday",7,10,19,"Kerbside",16,378.78377713389
+"153",153,"95-87 Atkinson Ave (N of King Street)","85-81 Atkinson Ave (S of Gordon Road)","T2","Monday to Friday",7,10,19,"Kerbside",16,74.8237189658454
+"154",154,"65 Atkinson Avenue (N of Princes Street)","678-682 Mount Wellington Hwy (N of Portage Road)
+678-682 Mount Wellington Hwy (N of Portage Road)","T2","Monday to Friday",7,10,19,"Kerbside",16,559.397338039446
+"155",155,"32 Atkinson Ave (S of Princes Street)
+32 Atkinson Ave (S of Princes Street)
+32 Atkinson Ave (S of Princes Street)","44 Atkinson Ave (N of King Street)
+44 Atkinson Ave (N of King Street)
+","T2","Monday to Friday",7,10,19,"Kerbside",16,118.423301123067
+"156",156,"Opposite 9 Atkinson Avenue (S of Portage Road)","20 Atkinson Avenue (N of Princes Street)","T2","Monday to Friday",7,10,19,"Kerbside",16,415.168870687277
+"157",157,"1443 Great North Road (north of Oakley Ave)","Oakley Creek Bridge (S of SH16 interchange)","Bus","Monday to Friday",7,10,19,"Kerbside",16,497.061374695631
+"158",158,"Intersection with Memorial Avenue","1017 Dominion Road","Bus","Monday to Friday",7,10,NA,NA,NA,117.814518595042
+"159",159,"Intersection with Richardson Road","1131 Dominion Road","Bus","Monday to Friday",7,10,NA,NA,NA,906.613718427233
+"160",160,"223 Symonds Street","135 Symonds Street (Opposite Glenside Crescent)","Bus","Monday to Friday",7,10,NA,NA,NA,260.979150786116
+"161",161,"SH16 EB off-ramp","SH16 WB on-ramp","T2&Truck","24/7",NA,NA,NA,"Centre",NA,54.2397819179922
+"162",162,"832 Great South Road, Wiri","832 Great South Road, Wiri","Bus","24/7",NA,NA,NA,NA,NA,39.0997522599833
+"163",163,"2 Kerrs Road, Wiri","1 Kerrs Road, Wiri","Bus","24/7",NA,NA,NA,NA,NA,38.4373526734444
+"164",164,"226 Great South Road, Manurewa","228 Great South Road, Manurewa","Bus","24/7",NA,NA,NA,NA,NA,53.6159681815439
+"165",165,"215 Great South Road, Manurewa","209 Great South Road, Manurewa","Bus","24/7",NA,NA,NA,NA,NA,61.2250244803595
+"166",166,"321 Great South Road, Manurewa","317 Great South Road, Manurewa","Bus","24/7",NA,NA,NA,NA,NA,85.7986934077291
+"167",168,"Onewa off-ramp","Onewa on-ramp","BusOnly","Monday to Friday",NA,NA,19,NA,15,456.49227585213
+"168",169,"Start of northbound on-ramp","End of ramp","Bus/EV","24/7",NA,NA,NA,NA,NA,263.24123287668
+"169",170,"150 m South of Shelley Beach Rd brdige","Fanshawe St Southbound Off-ramp","BusOnly","24/7",NA,NA,NA,NA,NA,827.826667828215
+"170",171,"Penrose Rd bridge","Ellerslie Panmure Highway Northbound off-ramp","BusOnly","Monday to Friday",6.3,9.3,19,NA,15,404.697379938593
+"171",172,"Mt Wellington northbound on-ramp","SEART northbound on-ramp","BusOnly","Monday to Friday",6.3,9.3,19,NA,15,983.277712018074
+"172",173,"Great Norh Rd westbound on-ramp","Rosebank Rd westbound off-ramp","BusOnly","Monday to Friday",NA,NA,19,NA,15,1138.39728378724
+"173",174,"Rosebank Rd westbound off-ramp","Patiki Rd Westbound on-ramp","BusOnly","Monday to Friday",NA,NA,19,NA,15,941.250917450229
+"174",175,"Patiki Rd westbound on-ramp","End of Te Atatu Rd Westbound off- ramp","BusOnly","Monday to Friday",NA,NA,19,NA,15,907.5990206178
+"175",176,"Te Atatu Rd westbound on-ramp ","Western side of Henderson Creek Bridge","BusOnly","24/7",NA,NA,NA,NA,NA,940.948217170087
+"176",177,"200 m N of Henderson Creek Bridge","Te Atatu eastbound off-ramp","BusOnly","Monday to Friday ",6.3,9.3,NA,NA,NA,702.876997867127
+"177",178,"End of Te Atatu  eastbound on-ramp","700 m before the Patiki Rd eastbound off-ramp","BusOnly","Monday to Friday",6.3,9.3,NA,NA,NA,575.048434586579
+"178",179,"Patiki Rd eastbound off-ramp","Adjacent to southern end of Rosebank Rd eastbound on-ramp bridge","BusOnly","Monday to Friday",6.3,9.3,NA,NA,NA,1310.61440615617
+"179",180,"End of Rosebank Rd eastbound on-ramp","Western end of Causeway eastbound bridge","BusOnly","Monday to Friday",6.3,9.3,NA,NA,NA,1032.84622624174
+"180",181,"Coronation Rd northbound on-ramp","Rimu Rd northbound on-ramp","BusOnly","Monday to Friday",6.3,9.3,19,NA,15,1071.35412648277
+"181",182,"Rimu Rd on-ramp","Onehunga northbound off-ramp","BusOnly","Monday to Friday",6.3,9.3,19,NA,15,661.415455783375
+"182",183,"Onehunga  southbound on-ramp","Rimu Rd","BusOnly","Monday to Friday",6.3,9.3,19,NA,15,690.544973044434
+"183",184,"Rimu Rd off-ramp","Walmsley Rd off-ramp","BusOnly","Monday to Friday",6.3,9.3,19,NA,15,1149.53851225133
+"184",185,"Start of south on-ramp(Onewa)","End of ramp (Onewa)","BusOnly","24/7",NA,NA,NA,NA,NA,535.489429132611
+"185",186,"65 m after Start of SB on-ramp (01N Constellation Drive,Glenfield,01N-0414-R2)","End of Ramp","T2,Truck&EV","24/7",NA,NA,NA,NA,NA,398.189558457808
+"186",187,"Start of NB on-ramp (01N-0438-R4)","End of Ramp","T2,Truck&EV","24/7",NA,NA,NA,NA,NA,245.757236913301
+"187",188,"Start of NB on-ramp","End of Ramp","T2,Truck&EV","24/7",NA,NA,NA,NA,NA,493.569548617206
+"188",189,"Start of NB on-ramp","End of Ramp","BusOnly","24/7",NA,NA,NA,NA,NA,74.1743969494405
+"189",190,"Start of Beaumount Street northbound on-ramp","End of Ramp","BusOnly","24/7",NA,NA,NA,NA,NA,236.887268075058
+"190",191,"Start of NB on-ramp","End of Ramp","T2&EV","24/7",NA,NA,NA,NA,NA,380.886440539957
+"191",192,"330 m after the start of SB on-ramp","End of Ramp","Truck Only","24/7",NA,NA,NA,NA,NA,245.824215231097
+"192",193,"Ramp 5, WB on-ramp, 20 m East of Ramp 4 structure","End of Ramp","T2,Truck&EV","24/7",NA,NA,NA,NA,NA,308.25793571381
+"193",194,"Ramp 6, EB loop, on-ramp, 60 m North of Ramp 4 structure","On Ramp (ramp 6), 90 m West of Ramp 3 structure","T2,Truck&EV","24/7",NA,NA,NA,NA,NA,586.763733304504
+"194",195,"Start of EB on-ramp","End of Ramp","T2&Truck","24/7",NA,NA,NA,NA,NA,370.36792196214
+"195",196,"Start of NB on-ramp (01N SEART,Mt Wellington,01N0437-R3)","End of Ramp","T2,Truck&EV","24/7",NA,NA,NA,NA,NA,428.005247777125
+"196",197,"250 m after the Hobsonville Rd eastbound on-ramp","475 m after the Hobsonville Rd eastbound on-ramp","BusOnly","Monday to Friday",6.3,9.3,NA,NA,NA,453.269949183721
+"197",198,"Constellation Bus Station","Akoranga Bus Station","BusOnly","24/7",NA,NA,NA,NA,NA,1678.51783714416
+"198",199,"Constellation Bus Station","Akoranga Bus Station","BusOnly","24/7",NA,NA,NA,NA,NA,4456.05131685284
+"199",200,"Start of northbound on-ramp","End of ramp","BusOnly","24/7",NA,NA,NA,NA,NA,439.086466780506
+"200",202,"Start of northbound off-ramp","End of ramp","BusOnly","24/7",NA,NA,NA,NA,NA,65.6518134200458
+"201",212,"Onewa on-ramp","Esmonde Off-ramp","BusOnly","Monday to Friday",NA,NA,19,NA,15,1001.17280798506
+"202",216,"Broadway - Davies Crescent intersection","Maunsell Road","Bus","Monday to Friday",7,10,19,NA,16,259.065934730523
+"203",219,"Akoranga Station","South of Onewa Interchange","BusOnly","24/7",NA,NA,NA,NA,NA,2314.76983945262
+"204",232,"Stafford off ramp","Stafford on ramp","BusOnly","24/7",NA,NA,NA,NA,NA,327.638713314613
+"205",233,"Dunrobin Pl","Gossamer Drive","T2","Monday to Friday",6,10,NA,"Kerbside",NA,1555.98468121504
+"206",234,"Just south of Huruhuru Bridge","South of Royal Road off-ramp","BusOnly",NA,NA,NA,19,NA,15,912.5534125326
+"207",235,"Royal Road on-ramp","Huruhuru Road bridge","BusOnly",NA,6.3,9.3,NA,NA,NA,1398.86817673759
+"208",236,"Just north of Royal Road off-ramp diverge","Between Royal Road bridge and Westgate pedestrian bridge","BusOnly",NA,NA,NA,19,NA,15,668.840592132109
+"209",237,"Between Westgate pedestrian bridge and Royal Road bridge","Just north of the Royal Road on-ramp merge","BusOnly",NA,6.3,9.3,NA,NA,NA,619.253213985397
+"210",239,"Federal St","Queen St","Bus","24/7",NA,NA,NA,NA,NA,228.174613564194
+"211",240,"Queen Street","Federal Street","Bus","24/7",NA,NA,NA,NA,NA,228.316633614699
+"212",241,"Wellesley Street","Cook Street","Bus","24/7",NA,NA,NA,NA,NA,188.287586156068
+"213",242,"Hobson Street","Queen Street","Bus","24/7",NA,NA,NA,NA,NA,400.850450773662
+"214",243,"Queen Street","Vincent Street","Bus","24/7",NA,NA,NA,NA,NA,277.952142128825
+"215",244,"Vincent Street","Poynton Terrace","Bus","24/7",NA,NA,NA,NA,NA,154.673968873788
+"216",245,"Hobson Street","Nelson Street","Bus","24/7",NA,NA,NA,"Centre",NA,104.03154839248
+"217",246,"Ponsonby Road","Pitt Street","Bus","Monday to Friday",7,10,19,NA,16,401.057344431536
+"218",247,"East Street","Ponsonby Road","Bus","Monday to Friday",7,10,19,NA,16,474.056983577269
+"219",252,"Wellesley St","Victoria St","Bus","24/7",NA,NA,NA,"Kerbside",NA,199.072886803486
+"220",253,"400 Queen Street","Mayoral Drive","Bus","24/7",NA,NA,NA,"Centre",NA,26.7809902082825
